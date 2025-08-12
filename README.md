@@ -22,9 +22,12 @@ python fake_news.py
 📂 Project Structure
 bash
 Copy
+
 Edit
+
 .
 |── fake_news.py   # Main Python script
+
 |── README.md      # Documentation
 
 
@@ -41,6 +44,8 @@ Export headlines to a .txt file.
 Add categories (Bollywood, Cricket, Politics, etc.).
 Make a web version using HTML/CSS/JavaScript.
 urn it into a desktop app with Tkinter.
+
+
 
 🧑‍💻 Author
 Made with ❤️ and 🤣 by Raj
