@@ -26,6 +26,7 @@ Copy
 Edit
 
 .
+
 |── fake_news.py   # Main Python script
 
 |── README.md      # Documentation
