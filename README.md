@@ -11,19 +11,7 @@ Super lightweight — no extra dependencies except Python itself.
 Great for beginners learning Python lists, loops, and string formatting.
 
 📸 Example Output
-
-Copy<img width="1098" height="249" alt="Screenshot 2025-08-12 215404" src="https://github.com/user-attachments/assets/56c41c24-56a0-4286-bb90-6e7ba587c569" />
-
-Edit
-BRAKING NEWS !: A goat wearing a saree teaching yoga to monkeys on top of Taj Mahal
-
-Do you want another Headine ? (Yes/no) yes
-
-BRAKING NEWS !: A rickshaw driver in Mumbai arguing with Alexa inside a samosa shop
-
-Do you want another Headine ? (Yes/no) no
-
-Thanks for using fake News Headline Generator ...
+<img width="1098" height="249" alt="Screenshot 2025-08-12 215404" src="https://github.com/user-attachments/assets/56c41c24-56a0-4286-bb90-6e7ba587c569" />
 
 
 🛠 Installation & Usage
