@@ -18,13 +18,15 @@ Great for beginners learning Python lists, loops, and string formatting.
 Clone this repository or copy the code 
 python fake_news.py
 
+
 📂 Project Structure
 bash
 Copy
 Edit
 .
-├── fake_news.py   # Main Python script
-└── README.md      # Documentation
+|── fake_news.py   # Main Python script
+|── README.md      # Documentation
+
 
 💡 How It Works
 Subjects list → Funny Indian-themed characters
